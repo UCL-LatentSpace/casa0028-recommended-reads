@@ -10,7 +10,7 @@ function App() {
 
 return (
   <div className="mx-auto max-w-screen-xl bg-cyan-500 min-h-screen">
-    <TitleBar title="🤡 RM OpenPlaques Recommended Reading" />
+    <TitleBar title="🍦 RM OpenPlaques Recommended Reading" />
     <MapDisplay longitude={-9.165209} latitude={38.717856} zoom={16} />
     {isModalOpen ? <PlaqueModal /> : null}
   </div>

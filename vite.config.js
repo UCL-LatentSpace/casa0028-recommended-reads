@@ -12,5 +12,5 @@ export default defineConfig({
     }),
     tailwindcss(),
   ],
-  base: 'https://UCL-LatentSpace.github.io/casa0028-recommended-reads/'
+  base: '/casa0028-recommended-reads/'
 })
